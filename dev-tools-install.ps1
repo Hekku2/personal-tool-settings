@@ -8,5 +8,5 @@ cinst 7zip.install -y
 cinst googlechrome -y
 cinst dotnet4.5 -y
 cinst dotnetcore-sdk -y
-cinst azure-cli
-cinst notepadplusplus.install
+cinst azure-cli -y
+cinst notepadplusplus.install -y
