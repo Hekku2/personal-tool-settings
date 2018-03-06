@@ -10,3 +10,4 @@ cinst dotnet4.5 -y
 cinst dotnetcore-sdk -y
 cinst azure-cli -y
 cinst notepadplusplus.install -y
+cinst visualstudiocode -y
