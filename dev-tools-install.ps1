@@ -11,3 +11,4 @@ cinst dotnetcore-sdk -y
 cinst azure-cli -y
 cinst notepadplusplus.install -y
 cinst visualstudiocode -y
+cinst nodejs.install -y
