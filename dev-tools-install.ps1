@@ -12,5 +12,6 @@ cinst azure-cli -y
 cinst notepadplusplus.install -y
 cinst visualstudiocode -y
 cinst nodejs.install -y
+cinst tortoisegit -y
 
 npm install -g @angular/cli
